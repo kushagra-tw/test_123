@@ -2,4 +2,4 @@ print('hello')
 
 print('aldjlfjsdl')
 
-print(;lajsdlfja)
+print(';lajsdlfja')
